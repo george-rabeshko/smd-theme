@@ -1,14 +1,14 @@
 {
-  "name": "skizze-theme",
+  "name": "smd-theme",
   "version": "1.0.0",
-  "description": "frontend theme for skizze.io",
+  "description": "frontend theme for savemydate.info",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/george-rabeshko/skizze-theme.git"
+    "url": "git+https://github.com/george-rabeshko/smd-theme.git"
   },
   "keywords": [
     "skizze"
@@ -16,9 +16,9 @@
   "author": "George Rabeshko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/george-rabeshko/skizze-theme/issues"
+    "url": "https://github.com/george-rabeshko/smd-theme.git"
   },
-  "homepage": "https://github.com/george-rabeshko/skizze-theme#readme",
+  "homepage": "https://github.com/george-rabeshko/smd-theme.git",
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "connect": "^3.4.1",

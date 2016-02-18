@@ -1,8 +1,9 @@
 {
-  "name": "skizze-theme",
+  "name": "smd-theme",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "1.8",
+    "jquery": "1.9",
     "normalize-css": "normalize.css#^3.0.3",
+    "bootstrap": "3.3.6"
   }
 }
